@@ -49,20 +49,9 @@ The application uses POJO classes to represent the entities in the system. The c
  ![Untitled design (2)](https://github.com/mevicky9254/Government-Rural-Employment-Scheme-/assets/112768362/7afcc467-16de-47fc-b72e-25fc967550b9)
   
   
-   <h1>[Getting Started]</h1>
-    <h3>Execution</h3>
-    <p>If you want to run the project in your local machine</p>
-    <p>Follow the given steps:</p>
-    <ul>
-        <li>Open the code in VS code or STS </li>
-        <li>Clone the respository <a href="https://github.com/mevicky9254/Government-Rural-Employment-Scheme-.git">https://github.com/mevicky9254/Government-Rural-Employment-Scheme-.git</a></li>
-       
- <li>Congrats !  you have successfully sarted the application.</li>
-    </ul>
+   
     
     
      
-   <h3>Creator</h3>     
-  <a href="https://github.com/mevicky9254">@Vikki Kumar</a>
-    
+
   
